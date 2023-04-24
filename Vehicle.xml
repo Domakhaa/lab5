@@ -1,0 +1,14 @@
+<?xml version="1.1" encoding="UTF-8" ?>
+<VehicleCatalog>
+    <Vehicle>
+        <name>Самолетикс</name>
+        <coordinates>
+            <x>3</x>
+            <y>5</y>
+        </coordinates>
+        <creationDate> </creationDate>
+        <enginePower> </enginePower>
+        <type>BOAT</type>
+        <fuelType>PLASMA</fuelType>
+    </Vehicle>
+</VehicleCatalog>
